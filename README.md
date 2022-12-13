@@ -26,3 +26,5 @@
     Создан удаленный репозиторий TestTaskSolved на GitHub
 
     Выгружено решение со вспомогательными файлами в удаленный репозиторий
+    
+    ![Scheme_Chart_Test_1](https://user-images.githubusercontent.com/120134140/207428794-3e9609ef-44b0-4c80-a36a-d2ab0d3e7695.jpeg)
